@@ -171,7 +171,7 @@ img {
   background-color: #3b4c6b;
   background-image: url('../images/hero.png');
   background-position: center;
-  background-size: 110% auto;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
