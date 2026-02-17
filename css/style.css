@@ -168,7 +168,11 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('../images/hero.png') center / cover no-repeat;
+  background-color: #3b4c6b;
+  background-image: url('../images/hero.png');
+  background-position: center;
+  background-size: 110% auto;
+  background-repeat: no-repeat;
 }
 
 .hero-overlay {
