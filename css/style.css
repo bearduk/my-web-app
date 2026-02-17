@@ -160,7 +160,8 @@ img {
 .hero {
   position: relative;
   overflow: hidden;
-  min-height: 280px;
+  width: 100vw;
+  min-height: 320px;
   display: flex;
   align-items: center;
   justify-content: center;
